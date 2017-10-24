@@ -229,11 +229,16 @@ figure {
   letter-spacing: 7px;
 }
 
-.fh5co-cover .display-tc p span {
+.fh5co-cover .display-tc {
   border-top: 2px solid #fff;
   border-bottom: 2px solid #fff;
   padding: 5px 0px;
 }
+
+p span {
+  font-size: 36px;
+}
+
 
 /* Superfish Override Menu */
 .sf-menu {
@@ -643,6 +648,7 @@ figure {
 
 .couple-desc h3 {
   font-size: 40px;
+  text-align:right;
 }
 
 .couple-desc .fh5co-social-icons a:first-child {
