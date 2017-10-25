@@ -1,12 +1,23 @@
 {
-"devDependencies": {
-  "gulp": "latest",
-  "gulp-util": "latest",
-  "gulp-sass": "latest",
-  "gulp-uglify": "latest",
-  "gulp-concat": "latest",
-  "gulp-connect": "latest",
-  "gulp-rename": "latest",
-  "gulp-order": "latest"
-  }
+  "name": "betalef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malkiel01/betAlef.git"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malkiel01/betAlef/issues"
+  },
+  "homepage": "https://github.com/malkiel01/betAlef#readme"
 }
+{}
